@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="9e2f05ed-530f-44dd-988f-a6e486796a8c" 
+        solutionId="9e2f05ed-530f-44dd-988f-a6e486796a8c" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ListaPersonas"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="22cc9e1c-900c-4c7b-927e-cb3367267dc2" />
+  </features>
+</package>
